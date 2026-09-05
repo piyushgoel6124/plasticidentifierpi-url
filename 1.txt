@@ -1,6 +1,6 @@
 {
     "local_url": "http://192.168.137.169:5000",
-    "public_url": "",
+    "public_url": "https://chan-invisible-signal-enter.trycloudflare.com",
     "local_websocket": "ws://192.168.137.169:5000/ws",
-    "public_websocket": ""
+    "public_websocket": "wss://chan-invisible-signal-enter.trycloudflare.com/ws"
 }
