@@ -1,6 +1,6 @@
 {
     "local_url": "http://192.168.137.169:5000",
-    "public_url": "https://session-messenger-cluster-resolved.trycloudflare.com",
+    "public_url": "https://card-invitation-hobby-fisheries.trycloudflare.com",
     "local_websocket": "ws://192.168.137.169:5000/ws",
-    "public_websocket": "wss://session-messenger-cluster-resolved.trycloudflare.com/ws"
+    "public_websocket": "wss://card-invitation-hobby-fisheries.trycloudflare.com/ws"
 }
