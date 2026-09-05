@@ -1,1 +1,6 @@
-hello
+{
+    "local_url": "http://192.168.137.169:5000",
+    "public_url": "",
+    "local_websocket": "ws://192.168.137.169:5000/ws",
+    "public_websocket": ""
+}
