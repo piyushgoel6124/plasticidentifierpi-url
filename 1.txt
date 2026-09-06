@@ -1,7 +1,7 @@
 {
     "local_url": "http://192.168.137.93:5000",
-    "public_url": "https://decision-picks-nevertheless-jul.trycloudflare.com",
+    "public_url": "https://covers-pipe-classes-ppm.trycloudflare.com",
     "local_websocket": "ws://192.168.137.93:5000/ws",
-    "public_websocket": "wss://decision-picks-nevertheless-jul.trycloudflare.com/ws",
+    "public_websocket": "wss://covers-pipe-classes-ppm.trycloudflare.com/ws",
     "auth_token": "secret-device-auth-token-12345"
 }
