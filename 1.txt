@@ -1,7 +1,7 @@
 {
-    "local_url": "http://10.185.205.178:5000",
-    "public_url": "https://james-jacket-implementation-peace.trycloudflare.com",
-    "local_websocket": "ws://10.185.205.178:5000/ws",
-    "public_websocket": "wss://james-jacket-implementation-peace.trycloudflare.com/ws",
+    "local_url": "http://192.168.137.93:5000",
+    "public_url": "https://decision-picks-nevertheless-jul.trycloudflare.com",
+    "local_websocket": "ws://192.168.137.93:5000/ws",
+    "public_websocket": "wss://decision-picks-nevertheless-jul.trycloudflare.com/ws",
     "auth_token": "secret-device-auth-token-12345"
 }
