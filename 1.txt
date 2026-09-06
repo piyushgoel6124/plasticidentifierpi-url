@@ -1,7 +1,7 @@
 {
     "local_url": "http://192.168.137.169:5000",
-    "public_url": "https://ignored-give-ltd-fees.trycloudflare.com",
+    "public_url": "https://honey-thumbzilla-ban-badge.trycloudflare.com",
     "local_websocket": "ws://192.168.137.169:5000/ws",
-    "public_websocket": "wss://ignored-give-ltd-fees.trycloudflare.com/ws",
+    "public_websocket": "wss://honey-thumbzilla-ban-badge.trycloudflare.com/ws",
     "auth_token": "secret-device-auth-token-12345"
 }
