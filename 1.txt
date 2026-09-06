@@ -1,7 +1,7 @@
 {
-    "local_url": "http://127.0.1.1:5000",
-    "public_url": "https://api.trycloudflare.com",
-    "local_websocket": "ws://127.0.1.1:5000/ws",
-    "public_websocket": "wss://api.trycloudflare.com/ws",
+    "local_url": "http://192.168.137.93:5000",
+    "public_url": "https://borders-lodging-supplements-unity.trycloudflare.com",
+    "local_websocket": "ws://192.168.137.93:5000/ws",
+    "public_websocket": "wss://borders-lodging-supplements-unity.trycloudflare.com/ws",
     "auth_token": "secret-device-auth-token-12345"
 }
